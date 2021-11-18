@@ -48,6 +48,13 @@
 #define E2_ENABLE_PIN                         22
 #define HEATER_1_PIN                           7
 
+//
+// Z2 Achse auf Extruder E2
+//
+#define Z2_STEP_PIN                            4
+#define Z2_DIR_PIN                             5
+#define Z2_ENABLE_PIN                         22
+
 #include "pins_MKS_BASE_common.h" // ... RAMPS
 
 /*
